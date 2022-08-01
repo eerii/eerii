@@ -36,7 +36,9 @@
 <details>
 <summary><b>stats</b></summary>
 
-[![José Pazos Pérez's GitHub stats](https://github-readme-stats.vercel.app/api?username=josekoalas)](https://github.com/josekoalas)
+[![José Pazos Pérez's GitHub stats](https://github-readme-stats.vercel.app/api?username=josekoalas&count_private=true&show_icons=true)](https://github.com/josekoalas)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josekoalas&layout=compact&hide=jupyter%20notebook)](https://github.com/josekoalas)
 
 </details>
 
