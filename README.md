@@ -3,23 +3,23 @@
 #### what i code with
 
 <p>
-  <img alt="python" src="https://img.shields.io/badge/-python-4da167?style=pl&logo=python&logoColor=white"/>
-  <img alt="c plus plus" src="https://img.shields.io/badge/-c++-4da167?style=pl&logo=cplusplus&logoColor=white"/>
-  <img alt="opengl" src="https://img.shields.io/badge/-opengl-4da167?style=pl&logo=opengl&logoColor=white"/>
-  <img alt="vulkan" src="https://img.shields.io/badge/-vulkan-4da167?style=pl&logo=vulkan&logoColor=white"/>
-  <img alt="emscripten" src="https://img.shields.io/badge/-emscripten-4da167?style=pl&logo=webassembly&logoColor=white"/>
-  <img alt="sdl2" src="https://img.shields.io/badge/-sdl2-4da167?style=pl&logo=pkgsrc&logoColor=white"/>
-  <img alt="cmake" src="https://img.shields.io/badge/-cmake-4da167?style=pl&logo=cmake&logoColor=white"/>
-  <img alt="github actions" src="https://img.shields.io/badge/-github actions-4da167?style=pl&logo=githubactions&logoColor=white"/>
-  <img alt="typescript" src="https://img.shields.io/badge/-typescript-4da167?style=pl&logo=typescript&logoColor=white"/>
-  <img alt="node" src="https://img.shields.io/badge/-node-4da167?style=pl&logo=nodedotjs&logoColor=white"/>
-  <img alt="react" src="https://img.shields.io/badge/-react-4da167?style=pl&logo=react&logoColor=white"/>
-  <img alt="aws" src="https://img.shields.io/badge/-aws-4da167?style=pl&logo=amazonaws&logoColor=white"/>
-  <img alt="webrtc" src="https://img.shields.io/badge/-webrtc-4da167?style=pl&logo=webrtc&logoColor=white"/>
-  <img alt="bash" src="https://img.shields.io/badge/-bash-4da167?style=pl&logo=gnubash&logoColor=white"/>
-  <img alt="latex" src="https://img.shields.io/badge/-latex-4da167?style=pl&logo=latex&logoColor=white"/>
-  <img alt="git" src="https://img.shields.io/badge/-git-4da167?style=pl&logo=git&logoColor=white"/>
-  <img alt="c sharp" src="https://img.shields.io/badge/-c sharp-4da167?style=pl&logo=csharp&logoColor=white"/>
+  <img alt="python" src="https://img.shields.io/badge/-python-74b55b?style=pl&logo=python&logoColor=white"/>
+  <img alt="c plus plus" src="https://img.shields.io/badge/-c++-f2ac49?style=pl&logo=cplusplus&logoColor=white"/>
+  <img alt="opengl" src="https://img.shields.io/badge/-opengl-5a7ec4?style=pl&logo=opengl&logoColor=white"/>
+  <img alt="vulkan" src="https://img.shields.io/badge/-vulkan-f55e47?style=pl&logo=vulkan&logoColor=white"/>
+  <img alt="emscripten" src="https://img.shields.io/badge/-emscripten-d577e6?style=pl&logo=webassembly&logoColor=white"/>
+  <img alt="sdl2" src="https://img.shields.io/badge/-sdl2-73ccd1?style=pl&logo=pkgsrc&logoColor=white"/>
+  <img alt="cmake" src="https://img.shields.io/badge/-cmake-e38b54?style=pl&logo=cmake&logoColor=white"/>
+  <img alt="github actions" src="https://img.shields.io/badge/-github actions-83858a?style=pl&logo=githubactions&logoColor=white"/>
+  <img alt="typescript" src="https://img.shields.io/badge/-typescript-5a7ec4?style=pl&logo=typescript&logoColor=white"/>
+  <img alt="node" src="https://img.shields.io/badge/-node-74b55b?style=pl&logo=nodedotjs&logoColor=white"/>
+  <img alt="react" src="https://img.shields.io/badge/-react-73ccd1?style=pl&logo=react&logoColor=white"/>
+  <img alt="aws" src="https://img.shields.io/badge/-aws-f2ac49?style=pl&logo=amazonaws&logoColor=white"/>
+  <img alt="webrtc" src="https://img.shields.io/badge/-webrtc-f55e47?style=pl&logo=webrtc&logoColor=white"/>
+  <img alt="bash" src="https://img.shields.io/badge/-bash-d577e6?style=pl&logo=gnubash&logoColor=white"/>
+  <img alt="latex" src="https://img.shields.io/badge/-latex-73ccd1?style=pl&logo=latex&logoColor=white"/>
+  <img alt="git" src="https://img.shields.io/badge/-git-83858a?style=pl&logo=git&logoColor=white"/>
+  <img alt="c sharp" src="https://img.shields.io/badge/-c sharp-e38b54?style=pl&logo=csharp&logoColor=white"/>
 </p>
 
 #### my repositories
@@ -43,9 +43,9 @@
 #### where to find me
 
 <p>
-  <a href="https://github.com/josekoalas" target="_blank"><img alt="github" src="https://img.shields.io/badge/github-josekoalas-4da167?style=pl&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/josepazosperez" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-josepazosperez-4da167?style=pl&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jose.pazos.perez@rai.usc.es" target="_blank"><img alt="email" src="https://img.shields.io/badge/email-josepazosperez-4da167?style=pl&logo=minutemailer&logoColor=white"/></a>
-  <a href="https://t.me/josekoalas" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/telegram-josekoalas-4da167?style=pl&logo=telegram&logoColor=white"/></a>
-  <a href="https://josekoalas.itch.io" target="_blank"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-josekoalas-4da167?style=pl&logo=itchdotio&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/josepazosperez" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-josepazosperez-5a7ec4?style=pl&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/josekoalas" target="_blank"><img alt="github" src="https://img.shields.io/badge/github-josekoalas-74b55b?style=pl&logo=github&logoColor=white"/></a>
+  <a href="mailto:jose.pazos.perez@rai.usc.es" target="_blank"><img alt="email" src="https://img.shields.io/badge/email-josepazosperez-f2ac49?style=pl&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/josekoalas" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/telegram-josekoalas-e38b54?style=pl&logo=minutemailer&logoColor=white"/></a>
+  <a href="https://josekoalas.itch.io" target="_blank"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-josekoalas-f55e47?style=pl&logo=itchdotio&logoColor=white"/></a>
 </p>
