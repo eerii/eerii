@@ -1,4 +1,6 @@
-### hey! :koala:
+### hi! :sparkles:
+
+i'm josé, welcome to my github profile
 
 #### what i code with
 
@@ -14,24 +16,16 @@
   <img alt="typescript" src="https://img.shields.io/badge/-typescript-5a7ec4?style=pl&logo=typescript&logoColor=white"/>
   <img alt="node" src="https://img.shields.io/badge/-node-74b55b?style=pl&logo=nodedotjs&logoColor=white"/>
   <img alt="react" src="https://img.shields.io/badge/-react-73ccd1?style=pl&logo=react&logoColor=white"/>
+  <img alt="next.js" src="https://img.shields.io/badge/-next.js-83858a?style=pl&logo=nextdotjs&logoColor=white"/>
   <img alt="aws" src="https://img.shields.io/badge/-aws-f2ac49?style=pl&logo=amazonaws&logoColor=white"/>
   <img alt="webrtc" src="https://img.shields.io/badge/-webrtc-f55e47?style=pl&logo=webrtc&logoColor=white"/>
   <img alt="bash" src="https://img.shields.io/badge/-bash-d577e6?style=pl&logo=gnubash&logoColor=white"/>
   <img alt="latex" src="https://img.shields.io/badge/-latex-73ccd1?style=pl&logo=latex&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-git-83858a?style=pl&logo=git&logoColor=white"/>
   <img alt="c sharp" src="https://img.shields.io/badge/-c sharp-e38b54?style=pl&logo=csharp&logoColor=white"/>
+  <img alt="postgresql" src="https://img.shields.io/badge/-postgresql-5a7ec4?style=pl&logo=postgresql&logoColor=white"/>
+  <img alt="supabase" src="https://img.shields.io/badge/-supabase-74b55b?style=pl&logo=supabase&logoColor=white"/>
 </p>
-
-#### my repositories
-
-| project :sparkles: | description :pencil: |
-|---|---|
-| [fresa :strawberry:](https://github.com/josekoalas/fresa) | tiny c++ game engine |
-| [koalatex :koala:](https://github.com/josekoalas/koalatex) | latex template for class notes |
-| [tamarindo :apple:](https://github.com/josekoalas/tamarindo) | three.js typescript template |
-| [tomillo](https://github.com/josekoalas/tomillo) and [cilantro](https://github.com/josekoalas/cilantro) :herb: | class projects, simple python algorithms |
-| [albahaca](https://github.com/josekoalas/albahaca) and [perejil](https://github.com/josekoalas/perejil) :leaves: | physics lab reports in latex |
-| [abedul](https://github.com/josekoalas/abedul), [abeto](https://github.com/josekoalas/abeto) and [conifera](https://github.com/josekoalas/conifera) :evergreen_tree: | full stack web development course |
 
 <details>
 <summary><b>stats</b></summary>
