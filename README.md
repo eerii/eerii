@@ -6,7 +6,7 @@ i'm josé, welcome to my github profile
 
 <p>
   <img alt="python" src="https://img.shields.io/badge/-python-74b55b?style=pl&logo=python&logoColor=white"/>
-  <img alt="c plus plus" src="https://img.shields.io/badge/-c++-f2ac49?style=pl&logo=cplusplus&logoColor=white"/>
+  <img alt="c plus plus" src="https://img.shields.io/badge/-c/c++-f2ac49?style=pl&logo=cplusplus&logoColor=white"/>
   <img alt="opengl" src="https://img.shields.io/badge/-opengl-5a7ec4?style=pl&logo=opengl&logoColor=white"/>
   <img alt="vulkan" src="https://img.shields.io/badge/-vulkan-f55e47?style=pl&logo=vulkan&logoColor=white"/>
   <img alt="emscripten" src="https://img.shields.io/badge/-emscripten-d577e6?style=pl&logo=webassembly&logoColor=white"/>
@@ -25,6 +25,13 @@ i'm josé, welcome to my github profile
   <img alt="c sharp" src="https://img.shields.io/badge/-c sharp-e38b54?style=pl&logo=csharp&logoColor=white"/>
   <img alt="postgresql" src="https://img.shields.io/badge/-postgresql-5a7ec4?style=pl&logo=postgresql&logoColor=white"/>
   <img alt="supabase" src="https://img.shields.io/badge/-supabase-74b55b?style=pl&logo=supabase&logoColor=white"/>
+</p>
+
+#### what i'm learning
+
+<p>
+  <img alt="rust" src="https://img.shields.io/badge/-rust-e38b54?style=pl&logo=rust&logoColor=white"/>
+  <img alt="zig" src="https://img.shields.io/badge/-zig-f2ac49?style=pl&logo=zig&logoColor=white"/>
 </p>
 
 <details>
