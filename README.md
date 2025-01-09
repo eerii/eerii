@@ -1,12 +1,6 @@
 ### hi! :sparkles:
 
-i'm eri, welcome to my github profile
-
-#### highlighted projects
-
-|<img width="190" alt="" src="https://user-images.githubusercontent.com/22449369/145628926-ca734a35-6a0e-4193-872b-4be45b886a48.gif"><br/> [fresa](https://github.com/eerii/fresa): tiny game engine (vk, gl, web) | <img width="350" alt="" src="https://github.com/eerii/eerii/assets/22449369/8b55013b-9ff9-4b5b-8ff0-e4addc161e8b"><br/> [tofu](https://github.com/eerii/tofu): tiny opengl renderer | <img width="450" alt="" src="https://user-images.githubusercontent.com/22449369/270110644-8437121c-4138-414f-860d-43dc9ab10a85.png"><br/> [dotfiles](https://github.com/eerii/dotfiles): sway dots |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| <img width="230" alt="" src="https://github.com/eerii/eerii/assets/22449369/b30db64d-c9a3-467c-83c9-66eb92c01777"><br/> [remie](https://github.com/eerii/strawbevy-jam): a conversation game | <img width="270" alt="" src="https://github.com/eerii/eerii/assets/22449369/fe9ab693-d390-4fb4-947c-61992f36f29b"><br/> [charon](https://github.com/eerii/charon): a traffic management game | <img width="450" alt="" src="https://github.com/eerii/monopoly/assets/22449369/65b8e889-7a65-467b-b6f9-ba69bee4ba52"><br/> [monopoly](https://github.com/eerii/monopoly): cli app |
+welcome to my github profile c:
 
 #### where to find me
 
